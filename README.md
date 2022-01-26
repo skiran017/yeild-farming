@@ -1,2 +1,2 @@
-# yeild farming
- Boiler plate for Yeild Farming smart contract(Crop rotation)
+# yield farming
+ Boiler plate for Yield Farming smart contract(Crop rotation)
